@@ -1,1 +1,3 @@
-# harbor_water
+# Analysis of New York City Harbor Water
+This is an analysis of New York City harbor water quality based on combined sewer outflows, water quality testing results and daily precipitation. Background information on CSO's can be found in this slideshow: https://goo.gl/JrsD5N. Additionally, green infrastructure is data is explored in relation to mitigating water quality issues.
+This analysis is based on several GIS files available through Open Sewer Atlas, at http://openseweratlas.tumblr.com/data, and NYC DEP Harbor Water Quality Data, at https://data.cityofnewyork.us/Environment/Harbor-Water-Quality/5uug-f49n. As well as weather data from WeatherUnderground.
